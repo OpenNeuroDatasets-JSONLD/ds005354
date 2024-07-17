@@ -1,0 +1,17 @@
+{
+    "Name": "geo-nav-fmri",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Taiping, Zeng",
+        "Mingbo, Cai"
+    ],
+    "Funding": [
+        ""
+    ],
+    "License": "CC0",
+    "EthicsApprovals": [
+        "the Office for Life Science Research and Ethics, The University of Tokyo"
+    ],
+    "DatasetDOI": "doi:"
+}
